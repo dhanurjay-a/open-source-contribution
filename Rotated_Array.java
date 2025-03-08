@@ -61,7 +61,5 @@ public class Rotated_Array {
         }   
         return -1;
     }
-    static int countRotation(int arr[]){
-        return findPivot(arr)+1;
-    }
+
 }
